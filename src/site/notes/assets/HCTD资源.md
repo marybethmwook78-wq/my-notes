@@ -20,7 +20,7 @@
 
 点击下方链接直接下载：
 
-👉 **[点击下载 HCTD 汇报 PPTX 演示文稿](../HCTD.pptx)**
+👉 **[点击下载 HCTD 汇报 PPTX 演示文稿]([../HCTD.pptx](https://github.com/marybethmwook78-wq/my-notes/blob/main/src/site/notes/assets/HCTD.pptx)**
 
 ---
 
