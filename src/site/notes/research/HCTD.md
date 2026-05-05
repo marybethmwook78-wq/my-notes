@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-permalink: /research/hctd/
+{"dg-publish":true,"permalink":"/research/hctd/","dg-note-properties":{"permalink":"/research/hctd/"}}
 ---
+
 
 # HCTD
 
