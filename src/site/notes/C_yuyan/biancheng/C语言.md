@@ -1,20 +1,26 @@
 ---
-{"title":"C语言编程资料","dg-publish":true,"draft":false,"tags":["C语言","编程","PDF资料"],"permalink":"/c-yuyan/biancheng/c/","dgPassFrontmatter":true,"dg-note-properties":{"title":"C语言编程资料","draft":false,"tags":["C语言","编程","PDF资料"]}}
+title: C语言编程资料
+dg-publish: true
+draft: false
+tags:
+  - C语言
+  - 编程
+  - PDF资料
+permalink: /c-yuyan/biancheng/c/
 ---
-
 
 # C语言编程资料
 
-##  下载
-[⬇️ 下载 C_biancheng.pdf](/C_yuyan/biancheng/C_biancheng.pdf)
+## 📥 下载
+[⬇️ 下载 C_biancheng.pdf](./C_biancheng.pdf)
 
 ## 👁️ 在线预览
 <iframe 
-  src="/C_yuyan/biancheng/C_biancheng.pdf" 
+  src="./C_biancheng.pdf" 
   width="100%" 
   height="700px" 
   style="border: 1px solid #ddd; border-radius: 8px;"
   allowfullscreen
 ></iframe>
 
-> 💡 路径说明：`/` 开头表示从你的 Digital Garden 站点根目录开始解析，不受笔记存放位置影响。
+> 💡 **说明**：`./` 表示“当前文件夹”。只要 PDF 和这篇笔记同在 `biancheng` 目录下，Digital Garden 构建时会自动精准映射，不受站点 URL 层级影响。
