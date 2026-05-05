@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-permalink: /inde/
+permalink: /index/
 dg-note-properties:permalink
 ---
 
