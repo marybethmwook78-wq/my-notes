@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-permalink: /research/hctd/
+permalink: /
 ---
 
-# HCTD
+# 欢迎来到郭帅的科研数字花园 🪴
 
-下面是 PDF 预览：
-<iframe src="/img/HCTD.pdf" width="100%" height="650" style="border:1px solid #e0e0e0; border-radius:6px;"></iframe>
+这里是我的科研知识库与项目成果展示平台，主要关注计算机视觉、无人机影像 (UAV) 以及小目标检测。
 
-下载链接：
-- [HCTD.pdf](/img/HCTD.pdf)
-- [HCTD.pptx](/img/HCTD.pptx)
+---
+
+## 📚 最新研究成果
+
+👉 **[[HCTD|点击查看：《HCTD：基于 CNN-Transformer 混合架构的高精度无人机影像目标检测器》（含 PDF 预览与 PPT 下载）]]**
