@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hctd/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/hctd/","dg-note-properties":{}}
 ---
 
 
@@ -83,4 +83,4 @@
 3.  探索红外/可见光多模态融合，提升夜间、雾霾等恶劣条件下的鲁棒性；
 4.  引入自动化超参寻优与动态稀疏注意力机制，持续挖掘网络潜力。
 
-以上就是我的汇报。感谢老师的指导，也感谢各位同学的聆听，欢迎大家提问与批评指正。 
+以上就是我的汇报。感谢老师的指导，也感谢各位同学的聆听，欢迎大家提问与批评指正。
