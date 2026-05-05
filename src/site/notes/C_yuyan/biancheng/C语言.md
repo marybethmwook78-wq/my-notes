@@ -23,4 +23,4 @@ permalink: /c-yuyan/biancheng/c/
   allowfullscreen
 ></iframe>
 
-> 💡 **路径说明**：`/img/` 对应仓库中的 `src/site/img/`。Vercel 构建时会将该目录静态资源直接映射到网站根目录，无需考虑笔记所在层级。
+
