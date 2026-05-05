@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hctd/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/hctd/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
