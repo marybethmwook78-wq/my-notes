@@ -1,13 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/research/hctd/","dg-note-properties":{"permalink":"/research/hctd/"}}
+{"dg-publish":true,"permalink":"/research/hctd/","title":"HCTD 高精度无人机影像检测汇报","dg-note-properties":{"permalink":"/research/hctd/","title":"HCTD 高精度无人机影像检测汇报"}}
 ---
 
 
-# HCTD
+# HCTD：基于 CNN-Transformer 混合架构的高精度无人机影像目标检测器
 
-下面是 PDF 预览：
-<iframe src="/img/HCTD.pdf" width="100%" height="650" style="border:1px solid #e0e0e0; border-radius:6px;"></iframe>
+---
 
-下载链接：
-- [HCTD.pdf](/img/HCTD.pdf)
-- [HCTD.pptx](/img/HCTD.pptx)
+## 📄 1. 论文/报告在线预览 (PDF)
+
+> [!abstract] 预览说明
+> 论文 PDF 已存储在根目录 img 文件夹中。
+
+<iframe src="/img/HCTD.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>
+
+---
+
+## 📊 2. 汇报幻灯片下载 (PPTX)
+
+<div style="background-color: #f1f3f5; border: 2px dashed #adb5bd; padding: 25px; border-radius: 12px; text-align: center; margin: 25px 0;">
+    <h3 style="margin-top: 0; color: #343a40;">HCTD 完整汇报演示文稿</h3>
+    <p style="color: #6c757d;">(点击下方按钮直接从 GitHub 节点下载)</p>
+    <br>
+    <a href="https://github.com/marybethmwook78-wq/my-notes/raw/main/src/img/HCTD.pptx" 
+       download="HCTD_汇报.pptx" 
+       style="background-color: #228be6; color: white; padding: 12px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
+       📥 立即下载 PPTX 文件
+    </a>
+</div>
