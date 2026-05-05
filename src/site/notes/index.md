@@ -10,4 +10,4 @@ title: 欢迎来到郭帅的学习花园🪴
 
 ### 📌 快速导航
 - [🚀 HCTD论文资料](/research/hctd/)
-- [📂 个人学习笔记](/research/)
+- [📂 唐迟-阅读的逻辑](/research/TC)
