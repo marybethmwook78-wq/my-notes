@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/research/hctd/","title":"HCTD 高精度无人机影像检测汇报","dg-note-properties":{"permalink":"research/hctd-presentation","title":"HCTD 高精度无人机影像检测汇报"}}
+dg-publish: true
+permalink: research/hctd-presentation
+title: HCTD 高精度无人机影像检测汇报
 ---
-
 
 # HCTD：基于 CNN-Transformer 混合架构的高精度无人机影像目标检测器
 
