@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/research/zuhui/hctd/hctd/","dgPassFrontmatter":true,"dg-note-properties":{"permalink":"/research/hctd/"}}
+dg-publish: true
+permalink: /research/hctd/
 ---
-
 
 
 
